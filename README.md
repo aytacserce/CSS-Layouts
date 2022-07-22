@@ -1,5 +1,6 @@
 # CSS-Layouts
 23.03.2022
+# Practices
 . Floats
 . Clearing Floats
 . Building a Simple Float Layout
