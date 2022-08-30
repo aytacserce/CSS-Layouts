@@ -1,17 +1,16 @@
 # CSS-Layouts
 23.03.2022
-# Practices
-. Floats
-. Clearing Floats
-. Building a Simple Float Layout
-. box-sizing: border-box
-. Flexbox
-. Spacing and Aligning Flex Items
-. The flex Property
-. Adding Flexbox to Our Project
-. Building a Simple Flexbox Layout
-. CSS Grid
-. Sizing Grid Columns and Rows
-. Placing and Spanning Grid Items
-. Aligning Grid Items and Tracks
-. Building a Simple CSS Grid Layout
+
+---
+
+In this site I practiced placing of semantic HTML element accordingly and used flexbox and css-grid instead of floats.
+
+---
+
+<img width="600px" src="https://github.com/cptsprrw/CSS-Layouts/blob/main/layouts-screenshot.png?raw=true" />
+
+---
+
+### :hammer_and_wrench: Languages and Tools Used:
+- HTML
+- CSS
