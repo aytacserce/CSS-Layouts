@@ -7,7 +7,7 @@ In this site I practiced placing of semantic HTML element accordingly and used f
 
 ---
 
-<img width="600px" src="https://github.com/cptsprrw/CSS-Layouts/blob/main/layouts-screenshot.png?raw=true" />
+<img width="600px" src="https://github.com/cptsprrw/CSS-Layouts/blob/main/layout-screenshot.png?raw=true" />
 
 ---
 
